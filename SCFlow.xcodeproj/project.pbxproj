@@ -13,6 +13,7 @@
 		EF983F482B147E4000B83735 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF983F462B147E4000B83735 /* Main.storyboard */; };
 		EF983F4A2B147E4300B83735 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF983F492B147E4300B83735 /* Assets.xcassets */; };
 		EF983F4D2B147E4300B83735 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF983F4B2B147E4300B83735 /* LaunchScreen.storyboard */; };
+		EF983F552B147FB500B83735 /* CustomFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF983F542B147FB500B83735 /* CustomFlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EF983F492B147E4300B83735 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF983F4C2B147E4300B83735 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF983F4E2B147E4300B83735 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF983F542B147FB500B83735 /* CustomFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFlowLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EF983F402B147E4000B83735 /* AppDelegate.swift */,
 				EF983F422B147E4000B83735 /* SceneDelegate.swift */,
 				EF983F442B147E4000B83735 /* ViewController.swift */,
+				EF983F542B147FB500B83735 /* CustomFlowLayout.swift */,
 				EF983F462B147E4000B83735 /* Main.storyboard */,
 				EF983F492B147E4300B83735 /* Assets.xcassets */,
 				EF983F4B2B147E4300B83735 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				EF983F452B147E4000B83735 /* ViewController.swift in Sources */,
 				EF983F412B147E4000B83735 /* AppDelegate.swift in Sources */,
+				EF983F552B147FB500B83735 /* CustomFlowLayout.swift in Sources */,
 				EF983F432B147E4000B83735 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
